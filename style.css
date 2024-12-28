@@ -1,0 +1,46 @@
+*{
+    margin: 5px;
+    padding: 1px;
+    box-sizing: border-box;
+    /* width: 1200px; */
+    
+}
+hr {
+    border: none;
+    border-top: 3px dotted rgb(216, 203, 203);
+    color: #fff;
+    background-color: #fff;
+    height: 5px;
+    width: 100%;
+  }
+.heading{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    letter-spacing: 10px;
+}
+pre{
+    font-size: large;
+    font-weight: 500;
+   
+    
+}
+span{
+    margin: 0;
+}
+
+.summary{
+    font-size: 25px;
+    font-weight:700;
+    letter-spacing: normal;
+    font-family: sans-serif;
+}
+.discription{
+    font-size: large;
+}
+.line{
+    border: solid 1px black;
+    background-color: black;
+    
+}
+    
